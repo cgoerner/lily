@@ -1,0 +1,15 @@
+remote_theme: mmistakes/minimal-mistakes
+title: Liy's Cool Designs
+description: Face Painter
+
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-K2Z1D7FG2R"
+
+author:
+  name: 'Lily Goerner'
+  email: 'paint@lilys.cool'
+
+plugins:
+  - jekyll-include-cache
